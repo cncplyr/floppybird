@@ -1,25 +1,11 @@
 Floppy Bird
 =========
-Initially, I wanted to try recreating Flappy Bird in HTML5, using a canvas and recycling the assets from the old game.
-
-What I did instead is something way more primitive. This project uses nothing but good ol' div's for all the objects and graphics, will scale perfectly on almost any screen (mobile and desktop), is terribly unoptimized, laggy, and isn't nearly as fast as it would've been if I had just used a canvas instead. But here it is!
+A fork of https://github.com/nebez/floppybird
 
 Live App
 ------------
 Check out a live preview of it over here:  
-http://nebez.github.io/floppybird/
-
-Cool Stuff
----------
-*Some cool things other people have done with the code. Let me know about your projects and I'll link it here*  
-https://github.com/rukmal/FlappyLeapBird - **[Rukmal](http://rukmal.me/)** integrated LeapMotion Controller functionality! Check out his website, he's done some cool stuff.  
-http://chrisbeaumont.github.io/floppybird/ - **[@chrisbeaumont](https://github.com/chrisbeaumont)** made an awesome auto-pilot, check it out  
-http://www.lobe.io/flappy-math-saga/- **[@tikwid](https://github.com/tikwid)** made a really cool version designed to teach you times tables. really cool.  
-http://dota2.cyborgmatt.com/flappydota/ - flappy dota, this one is really cool.  
-http://www.bicicletapegas.ro/flappypegas/ - flappy pegasus!  
-http://floppyduck.com/ - floppy duck.  
-http://flappydoge.lukas.pw/ - flappy doge!  
-http://flappy-craft.com/ - minecraft-inspired floppybird. ducks, eggs, fences.
+http://cncplyr.github.io/floppybird/
 
 Credits
 ------
