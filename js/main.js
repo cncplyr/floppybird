@@ -1,6 +1,6 @@
 /*
    Copyright 2014 Nebez Briefkani
-   floppybird - main.js
+   mango - main.js
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -350,7 +350,7 @@ function playerDead()
    $(".animated").css('animation-play-state', 'paused');
    $(".animated").css('-webkit-animation-play-state', 'paused');
    
-   //drop the bird to the floor
+   //drop the mango to the floor
    var playerbottom = $("#player").position().top + $("#player").width(); //we use width because he'll be rotated 90 deg
    var floor = $("#flyarea").height();
    var movey = Math.max(0, floor - playerbottom);

@@ -1,6 +1,6 @@
 /*
    Copyright 2014 Nebez Briefkani
-   floppybird - main.css
+   mango - main.css
    
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -308,12 +308,12 @@ Screen - Game
    top: 200px;
 }
 
-.bird
+.mango
 {
    position: absolute;
    width: 34px;
    height: 24px;
-   background-image: url('../assets/bird.png');
+   background-image: url('../assets/mango.png');
    
    -webkit-animation: animBird 300ms steps(4) infinite;
    animation: animBird 300ms steps(4) infinite;
