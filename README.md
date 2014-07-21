@@ -5,7 +5,7 @@ A fork of https://github.com/nebez/floppybird
 Live App
 ------------
 Check out a live preview of it over here:  
-http://cncplyr.github.io/floppybird/
+http://cncplyr.github.io/fly-mango-mango/
 
 Credits
 ------
